@@ -5,13 +5,12 @@ name = "pypi"
 
 [packages]
 gitpython = "*"
-aiofile = "*"
 rich = "*"
 tqdm = "*"
+rich-click = "*"
+"ruamel.yaml" = "*"
 
 [dev-packages]
 ipython = "*"
 ipdb = "*"
 
-[requires]
-python_version = "3.9"
