@@ -164,7 +164,7 @@ def cli(working_dir, rev, groupby, fmt):
 
     Example:
 
-    `$ git-loc.py /path/to/repo -r master -f yaml`
+    `$ git-loc.py /path/to/repo -r main -f yaml`
     """
     global config
 
